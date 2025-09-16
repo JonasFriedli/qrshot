@@ -1,5 +1,5 @@
 # qrshot
-## QR screenshot to clipboard in one shot - no untrusted binaries needed
+## QR screenshot to clipboard in one shot script - no untrusted binaries needed
 
 `qrshot` lets you **select a screen region**, automatically **decode any QR codes** found, and **copy the decoded text to your clipboard**. Works on **X11** and **Wayland**.
 
