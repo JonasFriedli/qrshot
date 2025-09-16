@@ -2,6 +2,8 @@
 
 `qrshot` lets you **select a screen region**, automatically **decode any QR codes** found, and **copy the decoded text to your clipboard**. Works on **X11** and **Wayland**.
 
+![qrshot demo](./qrshot.gif)
+
 ---
 
 ## 1) Dependencies
